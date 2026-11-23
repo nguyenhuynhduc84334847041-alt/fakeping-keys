@@ -51,10 +51,14 @@
       "expires_at": 1795418947408
     },
     "jax-y5z6-a7b8": {
-      "used": false,
-      "used_by": null,
-      "used_at": null,
-      "duration_hours": 6
+      "used": true,
+      "used_by": 8098518531,
+      "used_at": 1795397397824,
+      "duration_hours": 6,
+      "used_by_username": "jaxnguyen88",
+      "active": true,
+      "regenerated_at": 1795397397824,
+      "expires_at": 1795418997824
     },
     "jax-c9d2-e3f4": {
       "used": false,

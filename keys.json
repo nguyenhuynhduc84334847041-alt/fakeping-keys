@@ -161,10 +161,14 @@
       "expires_at": 1795545257536
     },
     "jax-z6a7-b8c9": {
-      "used": false,
-      "used_by": null,
-      "used_at": null,
-      "duration_hours": 6
+      "used": true,
+      "used_by": 8952027170,
+      "used_at": 1795523787725,
+      "duration_hours": 6,
+      "used_by_username": "nguyennamdev",
+      "active": true,
+      "regenerated_at": 1795523787725,
+      "expires_at": 1795545387725
     },
     "jax-d2e3-f4g5": {
       "used": false,

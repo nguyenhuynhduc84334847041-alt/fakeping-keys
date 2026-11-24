@@ -151,10 +151,14 @@
       "expires_at": 1795428621794
     },
     "jax-v2w3-x4y5": {
-      "used": false,
-      "used_by": null,
-      "used_at": null,
-      "duration_hours": 6
+      "used": true,
+      "used_by": 1087968824,
+      "used_at": 1795523657536,
+      "duration_hours": 6,
+      "used_by_username": "GroupAnonymousBot",
+      "active": true,
+      "regenerated_at": 1795523657536,
+      "expires_at": 1795545257536
     },
     "jax-z6a7-b8c9": {
       "used": false,

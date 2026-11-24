@@ -171,10 +171,14 @@
       "expires_at": 1795545387725
     },
     "jax-d2e3-f4g5": {
-      "used": false,
-      "used_by": null,
-      "used_at": null,
-      "duration_hours": 6
+      "used": true,
+      "used_by": 8721358913,
+      "used_at": 1795524330780,
+      "duration_hours": 6,
+      "used_by_username": "beatdog999",
+      "active": true,
+      "regenerated_at": 1795524330780,
+      "expires_at": 1795545930780
     },
     "jax-h6j7-k8m9": {
       "used": false,

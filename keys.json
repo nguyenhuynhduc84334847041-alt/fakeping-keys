@@ -383,10 +383,14 @@
       "expires_at": 1795803871854
     },
     "jax-e3f4-g5h6": {
-      "used": false,
-      "used_by": null,
-      "used_at": null,
-      "duration_hours": 6
+      "used": true,
+      "used_by": 8662716398,
+      "used_at": 1795783748964,
+      "duration_hours": 6,
+      "used_by_username": "",
+      "active": true,
+      "regenerated_at": 1795783748964,
+      "expires_at": 1795805348964
     },
     "jax-j7k8-m9n2": {
       "used": false,

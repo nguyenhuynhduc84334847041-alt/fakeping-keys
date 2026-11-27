@@ -363,10 +363,14 @@
       "expires_at": 1795796001475
     },
     "jax-w3x4-y5z6": {
-      "used": false,
-      "used_by": null,
-      "used_at": null,
-      "duration_hours": 6
+      "used": true,
+      "used_by": 8594733481,
+      "used_at": 1795778368765,
+      "duration_hours": 6,
+      "used_by_username": "duystone",
+      "active": true,
+      "regenerated_at": 1795778368765,
+      "expires_at": 1795799968765
     },
     "jax-a7b8-c9d2": {
       "used": false,

@@ -273,10 +273,14 @@
       "duration_hours": 6
     },
     "jax-d6e7-f8g9": {
-      "used": false,
-      "used_by": null,
-      "used_at": null,
-      "duration_hours": 6
+      "used": true,
+      "used_by": 8941022851,
+      "used_at": 1795759808899,
+      "duration_hours": 6,
+      "used_by_username": "Tuaha2ib",
+      "active": true,
+      "regenerated_at": 1795759808899,
+      "expires_at": 1795781408899
     },
     "jax-h2j3-k4m5": {
       "used": false,

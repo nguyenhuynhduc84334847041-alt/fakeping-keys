@@ -423,10 +423,14 @@
       "expires_at": 1795831812066
     },
     "jax-y3z4-a7b8": {
-      "used": false,
-      "used_by": null,
-      "used_at": null,
-      "duration_hours": 6
+      "used": true,
+      "used_by": 8627037474,
+      "used_at": 1795838266499,
+      "duration_hours": 6,
+      "used_by_username": "haii20005",
+      "active": true,
+      "regenerated_at": 1795838266499,
+      "expires_at": 1795859866499
     },
     "jax-c7d8-e9f2": {
       "used": false,
